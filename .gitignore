@@ -1,0 +1,4 @@
+#Gitignore
+#
+#Ignore .backup files from Ghostwriter
+*.backup
