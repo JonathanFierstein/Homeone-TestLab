@@ -8,7 +8,7 @@ This repository will contain details of the Homeone Test Lab's network cobfigura
 
 **IaC** - This folder contains a subfolder for each Test Lab node which contains current IaC files for that node.
 
-**Services** - This folder contains a file for each network services provided in the Test Lab which documents how the service is implemented.
+**Services** - This folder contains a file for each network service provided in the Test Lab which documents how the service is implemented on the network.
 
 
 ### Repository Root Files
