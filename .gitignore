@@ -2,3 +2,6 @@
 #
 #Ignore .backup files from Ghostwriter
 *.backup
+
+#Ignore Office Files Being Modified
+~$*
