@@ -1,0 +1,3 @@
+# The Test Lab's Network Services
+
+This folder will contain a list of files with the name format of ServiceName.md.   This markdown file will give complete details on how this network service is implemented and provided in the Testlab.  This file will also list any additional files that are also present in the directory, if any such additional files are necessary to completely document how this service is implemented in the lab.
