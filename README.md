@@ -5,6 +5,8 @@ This repository will contain details of the Homeone Test Lab's network cobfigura
 
 ### Repository Subfolders (List Repo Subfoldeds and Their Purpose)
 
+**Cloud Assets** - This folder contains details on cloud assets that are used in the Test Lab.
+
 **vm-logs** - Each VM has a folder in this directory which contains VM creation & change logs.
 
 **IaC** - This folder contains a subfolder for each Test Lab node which contains current IaC files for that node.
